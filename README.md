@@ -3,7 +3,6 @@ Get free testnet tokens for testnets.
 
 ## 🗂️ Available Faucet Lists
 - [Sepolia Faucet List](./sepolia.md)
-- [Holesky Faucet List](./holesky.md)
 - [Hoodi Faucet List](./hoodi.md)
 
 ## ✨ Contribute
